@@ -20,7 +20,7 @@ class FindClosestValueInBSTTest {
 
         var expected = 13;
         var actual = FindClosestValueInBST.findClosestValueInBst(root, 12);
-        //Utils.assertEquals(expected, actual);
+        assertEquals(expected, actual);
 
 
     }
