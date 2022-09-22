@@ -1,5 +1,6 @@
 package co.knry.algorithms.interview;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class MinimumWaitingTime {
@@ -13,8 +14,9 @@ public class MinimumWaitingTime {
         for (int i=0; i< queries.length; i++){
             minimumTime+=queries[i]*(queries.length-(i+1));
         }
-        
+
         return minimumTime;
     }
+
 
 }
