@@ -1,23 +1,24 @@
 package co.knry.algorithms.interview;
 
-import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class ValidateSubsequence {
 
     public static boolean isValidSubsequence(List<Integer> array, List<Integer> sequence) {
-        int arrIndex = 0;
         int seqIndex = 0;
 
-        while (arrIndex < array.size() && seqIndex < sequence.size()) {
-            if (array.get(arrIndex).equals(sequence.get(seqIndex))) {
-                seqIndex ++ ;
-
-                System.out.println(arrIndex+ " " + seqIndex);
+        AtomicInteger finalSeqIndex = new AtomicInteger(seqIndex);
+        array.stream().takeWhile(q -> finalSeqIndex.get()<sequence.size())
+                .forEach(arrElement ->
+        {
+            if (arrElement.equals(sequence.get(finalSeqIndex.get()))){
+                finalSeqIndex.getAndIncrement();
             }
-            arrIndex++;
-        }
-        return seqIndex == sequence.size();
+        });
+
+
+        return finalSeqIndex.get() == sequence.size();
     }
 
 }

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c068a40d-0889-4353-9dc4-2ed00f775fb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/BranchSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/BadCasts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/Gorilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/MyFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/Park.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/ZooGiftShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/lnkndquiz/Berries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/lnkndquiz/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/lnkndquiz/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/lnkndquiz/Unicorn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/co/knry/algorithms/interview/BranchSumsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pivotal-certified-pro-spring-dev-exam-02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/NodeDepths.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/NodeDepths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/SortedSquaredArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/SortedSquaredArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/TournamentWinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/TournamentWinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/ValidateSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/ValidateSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/Grizzly.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/Grizzly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/test/java/co/knry/algorithms/interview/ValidateSubsequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/test/java/co/knry/algorithms/interview/ValidateSubsequenceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EYIsAWoDtnVfpETApr467ytwSH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Edwin Hurtado/Proyectos/General/MyLearningPath/knryco-java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="co.knry.algorithms.interview" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="co.knry.algorithms.interview" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install -U" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BadCasts">
+    <configuration name="BadCasts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.knry.essentials.BadCasts" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.knry.essentials.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.knry.lnkndquiz.Main" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.knry.lnkndquiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.knry.essentials.PrintNumbers" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.knry.essentials.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.knry.essentials.Zoo" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.knry.essentials.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZooGiftShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.knry.essentials.ZooGiftShop" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.knry.essentials.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BadCasts" />
+        <item itemvalue="Application.ZooGiftShop" />
+        <item itemvalue="Application.PrintNumbers" />
+        <item itemvalue="Application.Zoo" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c068a40d-0889-4353-9dc4-2ed00f775fb1" name="Changes" comment="" />
+      <created>1662766296019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662766296019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/test/java/co/knry/algorithms/interview/NodeDepthsTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/RiverSizes.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/co/knry/essentials/Zoo.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/co/knry/essentials/ZooGiftShop.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

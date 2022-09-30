@@ -29,14 +29,11 @@ public class TournamentWinner {
             if (points.get(winner) > points.get(bestTeam)) {
                 bestTeam = winner;
             }
-
-
         }
 
         return bestTeam;
     }
 }
-
 
 class Team {
     String name;
