@@ -8,8 +8,9 @@ public sealed class ArmoredAnimal permits Armadillo {
         System.out.println(c);
     }
 }
+//class Armadillo extends ArmoredAnimal {
 
-class Armadillo extends ArmoredAnimal {
+final class Armadillo extends ArmoredAnimal {
     @Override public String toString() { return "Cute"; }
     public Armadillo(int size, String name) {
         super(size);
