@@ -52,6 +52,6 @@ public class TraditionalSearch {
         System.out.println();
     }
 
-    
+
 
 }
