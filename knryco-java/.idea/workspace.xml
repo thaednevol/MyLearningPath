@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c068a40d-0889-4353-9dc4-2ed00f775fb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/FindDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/concurrency/BadThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/concurrency/CheckResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/concurrency/CheckResultsWithSleepAndInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/concurrency/FullThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/streams/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/streams/MyOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/co/knry/algorithms/interview/FindDuplicateNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/beyondclasses/Deer.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/beyondclasses/Deer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/beyondclasses/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/beyondclasses/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/beyondclasses/Omnivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/beyondclasses/Omnivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/beyondclasses/RabbitFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/co/knry/essentials/beyondclasses/RabbitFood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knryco-kotlin/app/src/main/kotlin/co/knryco/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../knryco-kotlin/app/src/main/kotlin/co/knryco/Main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2EYIsAWoDtnVfpETApr467ytwSH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hernan/Proyectos/miniproject_0&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="co.knry.algorithms.interview" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="co.knry.algorithms.interview" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install -U" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BadThreads">
+    <configuration name="BadThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.knry.essentials.concurrency.BadThreads" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.knry.essentials.concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="CheckResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.knry.essentials.concurrency.CheckResults" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.knry.essentials.concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="CheckResultsWithSleepAndInterrupt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.knry.essentials.concurrency.CheckResultsWithSleepAndInterrupt" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.knry.essentials.concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="MyOptional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.knry.essentials.streams.MyOptional" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.knry.essentials.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="FindDuplicateNumberTest.findDuplicate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.knry.algorithms.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.knry.algorithms.interview" />
+      <option name="MAIN_CLASS_NAME" value="co.knry.algorithms.interview.FindDuplicateNumberTest" />
+      <option name="METHOD_NAME" value="findDuplicate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BadThreads" />
+      <item itemvalue="Application.CheckResults" />
+      <item itemvalue="Application.CheckResultsWithSleepAndInterrupt" />
+      <item itemvalue="Application.MyOptional" />
+      <item itemvalue="JUnit.FindDuplicateNumberTest.findDuplicate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BadThreads" />
+        <item itemvalue="JUnit.FindDuplicateNumberTest.findDuplicate" />
+        <item itemvalue="Application.CheckResults" />
+        <item itemvalue="Application.CheckResultsWithSleepAndInterrupt" />
+        <item itemvalue="Application.MyOptional" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c068a40d-0889-4353-9dc4-2ed00f775fb1" name="Changes" comment="" />
+      <created>1662766296019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662766296019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/test/java/co/knry/algorithms/interview/NodeDepthsTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/RiverSizes.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/co/knry/essentials/Zoo.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/co/knry/essentials/ZooGiftShop.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/co/knry/essentials/streams/MyOptional.java</url>
+          <line>47</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/co/knry/algorithms/interview/FindDuplicateNumber.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
