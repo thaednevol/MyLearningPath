@@ -4,6 +4,7 @@ public class Lion {
     class Cub {}
     static class Den {}
     static void rest() {
+        /*
         Cub a = Lion.new Cub();
         Lion.Cub b = new Lion().Cub();
         Lion.Cub c = new Lion().new Cub();
@@ -12,6 +13,6 @@ public class Lion {
         Lion.Den f = Lion.new Den();
         Lion.Den g = new Lion.Den();
         var h = new Cub();
-
+*/
     } }
 

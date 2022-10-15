@@ -9,11 +9,13 @@ public class Deer {
         }
 
         public static void main(String[] seasons) {
+            /*
             System.out.print(switch (new Diet().getFavorite()) {
                 case APPLES -> "a";
                 case BERRIES -> "b";
                 default -> "c";
             });
+             */
         }
     }
 }
