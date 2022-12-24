@@ -34,6 +34,14 @@ hs_err_pid*
 .idea/**/dictionaries
 .idea/**/shelf
 .idea/workspace.xml
+knryco-java/.idea/**/workspace.xml
+knryco-java/.idea/**/tasks.xml
+knryco-java/.idea/**/usage.statistics.xml
+knryco-java/.idea/**/dictionaries
+knryco-java/.idea/**/shelf
+knryco-java/.idea/workspace.xml
+
+
 
 # AWS User-specific
 .idea/**/aws.xml
