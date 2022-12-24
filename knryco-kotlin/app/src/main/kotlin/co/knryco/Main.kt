@@ -16,5 +16,5 @@ object Main {
         return "foo"
     }
 
-    
+
 }
